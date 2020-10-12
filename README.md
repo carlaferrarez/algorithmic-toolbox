@@ -17,3 +17,6 @@ Good job! (Max time used: 0.08/1.50, max memory used: 28459008/536870912.)
 
 ## 3-1: Money Change
 Good job! (Max time used: 0.08/1.50, max memory used: 28385280/536870912.)
+
+## 3-2: Maximum Value of the Loot (Fractional Knapsack)
+Good job! (Max time used: 0.18/1.50, max memory used: 37720064/671088640.)
