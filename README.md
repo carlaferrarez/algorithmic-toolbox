@@ -23,3 +23,6 @@ Good job! (Max time used: 0.18/1.50, max memory used: 37720064/671088640.)
 
 ## 3-4: Maximum Advertisement Revenue (Maximum Dot Product)
 Good job! (Max time used: 0.54/1.50, max memory used: 36229120/536870912.
+
+## 4-1: Binary Search
+Good job! (Max time used: 0.64/2.00, max memory used: 67342336/536870912.)
