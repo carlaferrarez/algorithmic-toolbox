@@ -29,3 +29,6 @@ Good job! (Max time used: 0.64/2.00, max memory used: 67342336/536870912.)
 
 ## 4-2: Majority Element
 Good job! (Max time used: 0.86/1.50, max memory used: 45940736/536870912.)
+
+## 4-3: Improving QuickSort
+Good job! (Max time used: 0.79/1.50, max memory used: 51380224/536870912.)
