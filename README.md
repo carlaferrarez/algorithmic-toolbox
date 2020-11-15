@@ -32,3 +32,6 @@ Good job! (Max time used: 0.86/1.50, max memory used: 45940736/536870912.)
 
 ## 4-3: Improving QuickSort
 Good job! (Max time used: 0.79/1.50, max memory used: 51380224/536870912.)
+
+## 5-1: Money Change Again
+Good job! (Max time used: 0.08/1.50, max memory used: 28495872/536870912.)
