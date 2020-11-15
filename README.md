@@ -35,3 +35,6 @@ Good job! (Max time used: 0.79/1.50, max memory used: 51380224/536870912.)
 
 ## 5-1: Money Change Again
 Good job! (Max time used: 0.08/1.50, max memory used: 28495872/536870912.)
+
+## 5-2: Primitive Calculator
+Good job! (Max time used: 0.09/2.25, max memory used: 28655616/536870912.)
