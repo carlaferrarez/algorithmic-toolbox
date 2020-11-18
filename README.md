@@ -38,3 +38,6 @@ Good job! (Max time used: 0.08/1.50, max memory used: 28495872/536870912.)
 
 ## 5-2: Primitive Calculator
 Good job! (Max time used: 0.09/2.25, max memory used: 28655616/536870912.)
+
+## 5-3: Edit Distance
+Good job! (Max time used: 0.45/1.50, max memory used: 23678976/536870912.)
